@@ -1,1 +1,1 @@
-console.log("Thank to Kate for my first git commit");
+console.log("Thanks to Kate for my first git commit");
